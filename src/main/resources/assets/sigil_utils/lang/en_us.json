@@ -1,0 +1,47 @@
+{
+  "creativetab.sigil_utils_tab": "Sigil Utils",
+
+  "item.sigil_utils.varentium": "Varentium",
+  "item.sigil_utils.varentium_shard": "Varentium Shard",
+  "block.sigil_utils.varentium_block": "Block of Varentium",
+  "block.sigil_utils.varentium_ore": "Varentium Ore",
+  "block.sigil_utils.deepslate_varentium_ore": "Deepslate Varentium Ore",
+
+  "item.sigil_utils.circadium_ingot": "Circadium Ingot",
+  "item.sigil_utils.circadium_blend": "Circadium Blend",
+  "item.sigil_utils.circadium_plating": "Circadium Plating",
+  "block.sigil_utils.circadium_block": "Block of Circadium",
+
+  "item.sigil_utils.orichalcom_alloy": "Orichalcom Alloy",
+  "item.sigil_utils.orichalcom_ingot": "Orichalcom Ingot",
+  "item.sigil_utils.orichalcom_nugget": "Orichalcom Nugget",
+  "block.sigil_utils.orichalcom_block": "Block of Orichalcom",
+
+  "item.sigil_utils.ring_of_transmutation": "Ring of Transmutation",
+  "item.sigil_utils.ring_of_holding": "Ring of Holding",
+  "item.sigil_utils.orichalcom_egg": "Orichalcom Egg",
+  "item.sigil_utils.astral_star": "Astral Star",
+
+  "item.sigil_utils.coal_chunk": "Coal Chunk",
+  "item.sigil_utils.charcoal_chunk": "Charcoal Chunk",
+
+  "item.sigil_utils.moss_ball": "Moss Ball",
+
+  "block.sigil_utils.black_reglazed_terracotta": "Black Reglazed Terracotta",
+  "block.sigil_utils.blue_reglazed_terracotta": "Blue Reglazed Terracotta",
+  "block.sigil_utils.brown_reglazed_terracotta": "Brown Reglazed Terracotta",
+  "block.sigil_utils.cyan_reglazed_terracotta": "Cyan Reglazed Terracotta",
+  "block.sigil_utils.gray_reglazed_terracotta": "Gray Reglazed Terracotta",
+  "block.sigil_utils.green_reglazed_terracotta": "Green Reglazed Terracotta",
+  "block.sigil_utils.magenta_reglazed_terracotta": "Magenta Reglazed Terracotta",
+  "block.sigil_utils.light_blue_reglazed_terracotta": "Light Blue Reglazed Terracotta",
+  "block.sigil_utils.light_gray_reglazed_terracotta": "Light Gray Reglazed Terracotta",
+  "block.sigil_utils.lime_reglazed_terracotta": "Lime Reglazed Terracotta",
+  "block.sigil_utils.orange_reglazed_terracotta": "Orange Reglazed Terracotta",
+  "block.sigil_utils.pink_reglazed_terracotta": "Pink Reglazed Terracotta",
+  "block.sigil_utils.purple_reglazed_terracotta": "Purple Reglazed Terracotta",
+  "block.sigil_utils.red_reglazed_terracotta": "Red Reglazed Terracotta",
+  "block.sigil_utils.white_reglazed_terracotta": "White Reglazed Terracotta",
+  "block.sigil_utils.yellow_reglazed_terracotta": "Yellow Reglazed Terracotta",
+  "block.sigil_utils.chiseled_obsidian": "Chiseled Obsidian"
+}

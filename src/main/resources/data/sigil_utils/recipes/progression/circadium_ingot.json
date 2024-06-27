@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BRB",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "V": {
+      "item": "minecraft:blaze_powder"
+    },
+    "R": {
+      "item": "sigil_utils:ring_of_transmutation"
+    }
+  },
+  "result": {
+    "item": "sigil_utils:circadium_ingot",
+    "count": 2
+  }
+}

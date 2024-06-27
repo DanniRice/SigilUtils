@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sigil_utils:block/orichalcom_block"
+    }
+  }
+}

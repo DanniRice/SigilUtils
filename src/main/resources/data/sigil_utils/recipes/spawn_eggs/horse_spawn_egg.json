@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+      "item": "minecraft:cow_spawn_egg"
+    },
+    "addition": {
+      "item": "minecraft:leather_horse_armor"
+    },
+    "result": {
+      "item": "minecraft:horse_spawn_egg"
+    }
+  }

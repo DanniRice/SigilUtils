@@ -1,0 +1,21 @@
+{
+  "group": "spawn_eggs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "GOG",
+    " G "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:gunpowder"
+    },
+    "O": {
+      "item": "sigil_utils:orichalcom_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:creeper_spawn_egg",
+    "count": 1
+  }
+}

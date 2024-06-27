@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "sigil_utils:varentium_shard"
+    }
+  },
+  "result": {
+    "item": "sigil_utils:varentium",
+    "count": 1
+  }
+}

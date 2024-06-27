@@ -1,0 +1,24 @@
+{
+  "group": "spawn_eggs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "AOA",
+    " B "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bone"
+    },
+    "A": {
+      "item": "minecraft:arrow"
+    },
+    "O": {
+      "item": "sigil_utils:orichalcom_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:skeleton_spawn_egg",
+    "count": 1
+  }
+}

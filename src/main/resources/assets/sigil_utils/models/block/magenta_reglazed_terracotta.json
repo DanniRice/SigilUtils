@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "sigil_utils:block/magenta_reglazed_terracotta"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "spawn_eggs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " M ",
+    "WOW",
+    " M "
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:cooked_mutton"
+    },
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "O": {
+      "item": "sigil_utils:orichalcom_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:sheep_spawn_egg",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "sigil_utils:varentium_block",
+    "sigil_utils:varentium_ore",
+    "sigil_utils:deepslate_varentium_ore",
+    "sigil_utils:circadium_block"
+  ]
+}

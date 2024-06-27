@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "sigil_utils:circadium_plating"
+    }
+  },
+  "result": {
+    "item": "sigil_utils:circadium_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "group": "spawn_eggs",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "GOG",
+    " G "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:ghast_tear"
+    },
+    "O": {
+      "item": "sigil_utils:orichalcom_egg"
+    }
+  },
+  "result": {
+    "item": "minecraft:ghast_spawn_egg",
+    "count": 1
+  }
+}

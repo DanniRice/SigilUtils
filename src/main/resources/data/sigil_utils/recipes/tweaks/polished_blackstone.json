@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BC",
+    "CB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:polished_basalt"
+    },
+    "C": {
+      "item": "minecraft:coal"
+    }
+  },
+  "result": {
+    "item": "minecraft:polished_blackstone",
+    "count": 4
+  }
+}

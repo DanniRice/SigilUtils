@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sigil_utils:orichalcom_block"
+    }
+  ],
+  "result": {
+    "item": "sigil_utils:orichalcom_ingot",
+    "count": 9
+  }
+}

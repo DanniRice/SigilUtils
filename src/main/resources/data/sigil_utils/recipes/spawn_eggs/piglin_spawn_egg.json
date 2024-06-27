@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:villager_spawn_egg"
+  },
+  "addition": {
+    "item": "minecraft:cooked_porkchop"
+  },
+  "result": {
+    "item": "minecraft:piglin_spawn_egg"
+  }
+}

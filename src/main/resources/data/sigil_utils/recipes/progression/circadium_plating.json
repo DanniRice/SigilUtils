@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "sigil_utils:circadium_ingot"
+    }
+  },
+  "result": {
+    "item": "sigil_utils:circadium_plating",
+    "count": 1
+  }
+}
