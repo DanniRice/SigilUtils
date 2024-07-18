@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "sigil_utils:astral_star"
+    },
+    "E": {
+      "item": "minecraft:emerald_block"
+    },
+    "G": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "pattern": [
+    "GEG",
+    "EAE",
+    "GEG"
+  ],
+  "result": {
+    "item": "minecraft:totem_of_undying"
+  },
+  "show_notification": true
+}

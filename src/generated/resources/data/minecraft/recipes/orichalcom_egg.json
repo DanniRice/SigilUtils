@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:egg"
+    },
+    "O": {
+      "item": "sigil_utils:orichalcom_ingot"
+    }
+  },
+  "pattern": [
+    " O ",
+    "OEO",
+    " O "
+  ],
+  "result": {
+    "count": 4,
+    "item": "sigil_utils:orichalcom_egg"
+  },
+  "show_notification": true
+}

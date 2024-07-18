@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:ghast_tear"
+    },
+    "B": {
+      "item": "minecraft:gunpowder"
+    },
+    "E": {
+      "item": "sigil_utils:orichalcom_egg"
+    }
+  },
+  "pattern": [
+    " A ",
+    "BEB",
+    " A "
+  ],
+  "result": {
+    "item": "minecraft:ghast_spawn_egg"
+  },
+  "show_notification": true
+}

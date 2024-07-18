@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "O": {
+      "item": "sigil_utils:orichalcom_ingot"
+    },
+    "V": {
+      "item": "sigil_utils:varentium"
+    }
+  },
+  "pattern": [
+    "OVO",
+    "VNV",
+    "OVO"
+  ],
+  "result": {
+    "item": "sigil_utils:astral_star"
+  },
+  "show_notification": true
+}

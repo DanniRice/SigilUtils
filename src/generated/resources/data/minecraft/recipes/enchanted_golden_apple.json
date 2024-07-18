@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "sigil_utils:astral_star"
+    },
+    "B": {
+      "item": "minecraft:gold_block"
+    },
+    "I": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "BIB",
+    "IAI",
+    "BIB"
+  ],
+  "result": {
+    "item": "minecraft:enchanted_golden_apple"
+  },
+  "show_notification": true
+}

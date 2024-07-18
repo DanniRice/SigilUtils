@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:shulker_shell"
+    },
+    "B": {
+      "item": "minecraft:shulker_shell"
+    },
+    "E": {
+      "item": "sigil_utils:orichalcom_egg"
+    }
+  },
+  "pattern": [
+    " A ",
+    "BEB",
+    " A "
+  ],
+  "result": {
+    "item": "minecraft:shulker_spawn_egg"
+  },
+  "show_notification": true
+}

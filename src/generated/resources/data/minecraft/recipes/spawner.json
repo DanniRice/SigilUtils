@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "sigil_utils:astral_star"
+    },
+    "B": {
+      "item": "minecraft:chainmail_boots"
+    },
+    "C": {
+      "item": "minecraft:chainmail_chestplate"
+    },
+    "H": {
+      "item": "minecraft:chainmail_helmet"
+    },
+    "L": {
+      "item": "minecraft:chainmail_leggings"
+    },
+    "M": {
+      "item": "minecraft:mossy_cobblestone"
+    }
+  },
+  "pattern": [
+    "MHM",
+    "CAL",
+    "MBM"
+  ],
+  "result": {
+    "item": "minecraft:spawner"
+  },
+  "show_notification": true
+}

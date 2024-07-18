@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "sigil_utils:varentium_from_smelting_varentium_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_varentium_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "sigil_utils:varentium_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_varentium_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "sigil_utils:varentium_from_smelting_varentium_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}

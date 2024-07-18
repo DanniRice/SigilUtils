@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "sigil_utils:circadium_blend"
+    },
+    "R": {
+      "item": "sigil_utils:ring_of_transmutation"
+    },
+    "V": {
+      "item": "sigil_utils:varentium"
+    }
+  },
+  "pattern": [
+    "CVC",
+    "VRV",
+    "CVC"
+  ],
+  "result": {
+    "item": "sigil_utils:orichalcom_alloy"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_orichalcom_alloy": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "sigil_utils:orichalcom_alloy"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "sigil_utils:orichalcom_ingot_from_smelting_orichalcom_alloy"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_orichalcom_alloy",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "sigil_utils:orichalcom_ingot_from_smelting_orichalcom_alloy"
+    ]
+  },
+  "sends_telemetry_event": false
+}

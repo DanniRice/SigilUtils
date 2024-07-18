@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "item": "minecraft:cooked_mutton"
+    },
+    "O": {
+      "item": "sigil_utils:orichalcom_egg"
+    },
+    "W": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "pattern": [
+    " M ",
+    "WOW",
+    " M "
+  ],
+  "result": {
+    "item": "minecraft:sheep_spawn_egg"
+  },
+  "show_notification": true
+}

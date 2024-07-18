@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_deepslate_varentium_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "sigil_utils:deepslate_varentium_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "sigil_utils:varentium_from_blasting_deepslate_varentium_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_deepslate_varentium_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "sigil_utils:varentium_from_blasting_deepslate_varentium_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}

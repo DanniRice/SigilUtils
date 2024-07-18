@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sigil_utils:circadium_block"
+    }
+  ],
+  "result": {
+    "count": 16,
+    "item": "sigil_utils:circadium_ingot"
+  }
+}

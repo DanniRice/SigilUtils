@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sigil_utils:coal_chunk"
+    },
+    {
+      "item": "sigil_utils:coal_chunk"
+    },
+    {
+      "item": "sigil_utils:coal_chunk"
+    },
+    {
+      "item": "sigil_utils:coal_chunk"
+    },
+    {
+      "item": "sigil_utils:coal_chunk"
+    },
+    {
+      "item": "sigil_utils:coal_chunk"
+    },
+    {
+      "item": "sigil_utils:coal_chunk"
+    },
+    {
+      "item": "sigil_utils:coal_chunk"
+    }
+  ],
+  "result": {
+    "item": "minecraft:coal"
+  }
+}

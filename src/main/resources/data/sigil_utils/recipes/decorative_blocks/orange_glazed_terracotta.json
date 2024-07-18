@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "item": "sigil_utils:orange_reglazed_terracotta"
-  },
-  "result": "minecraft:orange_glazed_terracotta"
-}

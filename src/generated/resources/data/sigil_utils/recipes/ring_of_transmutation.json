@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "V": {
+      "item": "sigil_utils:varentium"
+    }
+  },
+  "pattern": [
+    " V ",
+    "VNV",
+    " V "
+  ],
+  "result": {
+    "item": "sigil_utils:ring_of_transmutation"
+  },
+  "show_notification": true
+}

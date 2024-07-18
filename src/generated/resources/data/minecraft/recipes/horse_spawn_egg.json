@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "sigil_utils:ring_of_transmutation"
+    },
+    {
+      "item": "minecraft:cow_spawn_egg"
+    },
+    {
+      "item": "minecraft:leather_horse_armor"
+    }
+  ],
+  "result": {
+    "item": "minecraft:horse_spawn_egg"
+  }
+}
