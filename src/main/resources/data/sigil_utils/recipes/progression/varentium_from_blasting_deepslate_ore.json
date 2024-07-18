@@ -4,7 +4,7 @@
   "experience": 0.7,
   "group": "varentium",
   "ingredient": {
-    "item": "sigil_utils:varentium_ore"
+    "item": "sigil_utils:deepslate_varentium_ore"
   },
   "result": "sigil_utils:varentium"
 }

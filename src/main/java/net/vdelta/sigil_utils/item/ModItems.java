@@ -7,6 +7,7 @@ import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.vdelta.sigil_utils.item.custom.FuelItem;
+import net.vdelta.sigil_utils.item.custom.RingOfTransmutationItem;
 
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, SigilUtils.MOD_ID);
@@ -22,7 +23,7 @@ public class ModItems {
     public static final RegistryObject<Item> ORICHALCOM_NUGGET = ITEMS.register("orichalcom_nugget", () -> new Item(new Item.Properties()));
 
     // rare items
-    public static final RegistryObject<Item> RING_OF_TRANSMUTATION = ITEMS.register("ring_of_transmutation", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RING_OF_TRANSMUTATION = ITEMS.register("ring_of_transmutation", () -> new RingOfTransmutationItem(new Item.Properties().stacksTo(1).fireResistant()));
     public static final RegistryObject<Item> RING_OF_HOLDING = ITEMS.register("ring_of_holding", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> ORICHALCOM_EGG = ITEMS.register("orichalcom_egg", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> ASTRAL_STAR = ITEMS.register("astral_star", () -> new Item(new Item.Properties()));
